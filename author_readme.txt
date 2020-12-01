@@ -1,0 +1,1 @@
+Sample database used was AdventureWorks from Microsoft.  Linke to download it is https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak
